@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Antoine-Becquet/Antoine-BECQUET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello there...
+
+Antoine BECQUET 
+- 🗓️19
+- 🎒student
+- 🔧actually working at [GE Vernova](gevernova.com)
+- 🤓 One Random IT Nerd
