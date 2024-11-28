@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 ## Hello there...
 
-# Antoine BECQUET 
-
 About me :
+- 🙋Antoine
 - 🗓️19
 - 🇫🇷 French
 - 🎒student
@@ -31,4 +30,5 @@ I'll try to post some personal projets I did at home, for example:
 * Smart Home
 * Hackintosh
 * Daily tools
-* Ethical hacking 
+* Ethical hacking
+* Gaming projects
