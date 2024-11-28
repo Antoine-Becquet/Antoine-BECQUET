@@ -15,8 +15,20 @@ Here are some ideas to get you started:
 
 ## Hello there...
 
-Antoine BECQUET 
+# Antoine BECQUET 
+
+About me :
 - 🗓️19
+- 🇫🇷 French
 - 🎒student
 - 🔧actually working at [GE Vernova](gevernova.com)
 - 🤓 One Random IT Nerd
+- 🎮 Video-games
+
+I'll try to post some personal projets I did at home, for example:
+
+* HomeLab (Home server)
+* Smart Home
+* Hackintosh
+* Daily tools
+* Ethical hacking 
