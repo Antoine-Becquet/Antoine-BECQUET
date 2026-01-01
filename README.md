@@ -19,8 +19,8 @@ About me :
 - 🙋Antoine
 - 🗓️19
 - 🇫🇷 French
-- 🎒student
-- 🔧actually working at [GE Vernova](gevernova.com)
+- 🎒 Computer science degree
+- 🔧actually working in IT
 - 🤓 One Random IT Nerd
 - 🎮 Video-games
 
@@ -32,3 +32,4 @@ I'll try to post some personal projets I did at home, for example:
 * Daily tools
 * Ethical hacking
 * Gaming projects
+* pull requests for other projects 
