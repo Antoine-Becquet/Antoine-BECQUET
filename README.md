@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 About me :
 - 🙋Antoine
-- 🗓️19
+- 🗓️20
 - 🇫🇷 French
 - 🎒 Computer science degree
 - 🔧actually working in IT
