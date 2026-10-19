@@ -12,24 +12,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Antoine Becquet — Profil
 
-## Hello there...
+### Bonjour 👋
+Je m'appelle Antoine, passionné d'informatique et actuellement dans l'IT. Diplômé BAC+2 en informatique, j'aime développer des projets autour de mon HomeLab, de la domotique et contribuer a développer différents projets :)
 
-About me :
-- 🙋Antoine
-- 🗓️20
-- 🇫🇷 French
-- 🎒 Computer science degree
-- 🔧actually working in IT
-- 🤓 One Random IT Nerd
-- 🎮 Video-games
+## À propos
+- 🙋 Antoine
+- 🗓️ 21 ans
+- 🇫🇷 Français
+- 🇬🇧 Niveau Anglais avancé
+- 🎒 BTS Services Informatiques aux Organisations (SIO)
+- 🔧 En poste dans l'IT (CDI)
+- 🤓 Un peu nerd
+- 🎮 Jeux vidéos
 
-I'll try to post some personal projets I did at home, for example:
+## Centres d'intérêt
+- HomeLab / Serveur personnel
+- Smart Home / Domotique
+- Hackintosh
+- Rétrofits auto (VAG)
+- Sécurité éthique
+- Projets liés aux jeux
+- Contributions / pull requests open source
 
-* HomeLab (Home server)
-* Smart Home
-* Hackintosh
-* Daily tools
-* Ethical hacking
-* Gaming projects
-* pull requests for other projects 
+## HomeLab
+- 🎬 [Jellyfin](https://jellyfin.org) — media server
+- 🎮 [Pterodactyl](https://pterodactyl.io) — game server panel
+- 🏠 [Home Assistant](https://www.home-assistant.io) — domotique
+- 🐳 [Docker](https://www.docker.com) — conteneurisation
+- 🌐 [Nginx Proxy Manager](https://nginxproxymanager.com) — reverse proxy
+
+## Stack / Outils
+- Freebox (NAS / Routeur / VM)
+- Linux
+- Docker
+- Home Assistant
+- Jellyfin
+- Pterodactyl
+- Proxy / reverse proxy
